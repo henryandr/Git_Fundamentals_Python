@@ -1,0 +1,30 @@
+# Archivos y directorios generados por el entorno de desarrollo
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+
+# Archivos de configuración locales
+.env
+config.ini
+
+# Entornos virtuales de Python
+venv/
+env/
+
+# Directorios y archivos específicos de tu IDE o editor de código
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Dependencias y paquetes descargados
+# (puedes modificar esto según el sistema de gestión de dependencias que utilices)
+venv/
+pipenv/
+poetry.lock
+pyproject.toml
+
+# Otros archivos y directorios que desees ignorar
