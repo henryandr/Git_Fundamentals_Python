@@ -10,6 +10,7 @@ def factorial(num):
 
 def menu():
     print(15 * "-*-")
+    print("Git & GitHub Fundamentals")
     print("\t\tMain Menu\t\t")
     print(15 * "-*-")
     print("1. Calculate payment\n2. Compare two numbers\n3. Calculate the factorial\n4. Exit")
